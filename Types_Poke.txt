@@ -1,0 +1,74 @@
+Regioes: Kanto, Hoen, Sinoh, Kalos, Johto, Unova
+
+Types
+Bug:
+	Legend: Celebi 
+  	Pokes: Caterpie, Kakuna, Venonat,Heracross, Ledyba, Combee 
+
+Dark:
+	Legend: Darkray
+	Pokes: Absol, Zorua, Umbreon, Sableye, Murkrow, Liepard  
+  
+Dragon:
+	Legend: Rayquaza
+	Pokes: Salamence, Dragonite, Druddigon, Garchomp, Gabite, Noivern
+
+Eletric:
+	Legend: Zapdos
+	Pokes: Pikachu, Ampharos, Luxray, Jolteon, Electabuzz, Emolga
+
+Fairy:
+	Legend: Xerneas
+	Pokes: Mawile, Togepi, Mime Jr., Jiglypuff, Flabebé, Chansey
+
+Fightning:
+	Legend: Terrakion
+	Pokes: Lucario, Machamp, Hitmonchan, Hitmonlee, Primeape, Throh
+
+Fire:
+	Legend: Moltres
+	Pokes: Charizard, Monferno, Blaziken, Flareon, Arcanine, Thyplosion 
+
+Flying:
+	Legend: Lugia
+	Pokes: Altaria, Pidgeot, Taillow, Spearow, Staraptor, Talonflame 
+
+Ghost:
+	Legend: Giratina
+	Pokes: Gengar, Bannete, Driflon, Mismagious, Dusknoir, Mimikyu
+
+Grass:
+	Legend: Shaymin
+	Pokes: Bulbasaur, Chespin, Chikorita, Lombre, Vileplume, Roselia
+
+Ground:
+	Legend: Groundoun
+	Pokes: Diglet, Cubone, Sandslash, Quagsire, Sandile, Rhyperior
+
+Ice:
+	Legend: Articuno
+	Pokes: Lapras, Glaceon, Seel, Abomasnow, Glalie,  Deliebird 
+
+Normal:
+	Legend: Arceus
+	Pokes: Eevee, Raticate, Ursaring, Snorlax, Meowth, Aipom
+
+Poison:
+	Legend: 
+	Pokes: Arbok, Seviper, Koffing, Muk, Nidoking, Croagrunk 
+
+Psychic:
+	Legend: Mewtwo / Mew
+	Pokes: Alakazam, Hypno, Psyduck, Gardevoir, Xatu, Espeon 
+
+Rock:
+	Legend: Regirock
+	Pokes: Onix, Geodude, Armaldo, Corsola, Solrock, Aggron 
+
+Steel:
+	Legend: Palkia
+	Pokes: Metagross, Scarmory, Honeyedge, Bisharp, Steelix, Kyurem
+
+Water:
+	Legend: Suicune
+	Pokes: Squirtle, Piplup, Greninja, Totodile, Milotic, Vaporeon
